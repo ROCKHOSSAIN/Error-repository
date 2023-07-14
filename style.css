@@ -61,4 +61,8 @@ color: white;
         padding-left: 50px;
 
     }
+    .error-head{
+        text-align: center;
+        margin: 10px auto;
+    }
 }
