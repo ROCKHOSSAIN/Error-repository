@@ -51,8 +51,13 @@ color: white;
     .error-img {
         width: 300px;
         height: 300px;
-        
+        /* margin-right: 189px;
+        margin-top: 43px;
+        margin-left: 90px; */
         margin: 50px auto;
 
+    }
+    .error-description{
+        padding-bottom: 30px;
     }
 }
