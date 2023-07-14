@@ -32,6 +32,7 @@ color: white;
 @media screen and (max-width:576px){
     .error-section{
         flex-direction: column;
+        padding-left: 50px;
     }
     .error-msg{
         text-align: start;
@@ -40,14 +41,16 @@ color: white;
         font-size: 35px;
         }
     .error-title{
-        width: 50%;
+        width: 80%;
         font-size: 15px;
+        line-height: 1.5rem;
     }
     .error-img {
         width: 300px;
         height: 300px;
         margin-right: 189px;
         margin-top: 43px;
+        margin-left: 90px;
 
     }
 }
