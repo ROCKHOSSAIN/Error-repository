@@ -29,7 +29,7 @@ height: 68px;
 background-color: black;
 color: white;
 }
-@media screen and (max-width:576px){
+@media screen and (min-width:300px) and (max-width:576px){
     .error-section{
         flex-direction: column;
         padding-left: 50px;
